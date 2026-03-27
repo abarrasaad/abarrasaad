@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abarrasaad
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web developement & Cyber-Security
+- 🌱 I’m currently learning Data science and Machine learning
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
